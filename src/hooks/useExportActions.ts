@@ -1,5 +1,4 @@
 import { useCallback } from "react";
-import { exportDocx } from "../exporters/docxExporter";
 import { exportHtml } from "../exporters/htmlExporter";
 import { exportMarkdown } from "../exporters/markdownExporter";
 import type { ExportFormat } from "../exporters/exportTypes";
@@ -21,6 +20,7 @@ export function useExportActions(notebook: NotebookState) {
       }
 
       if (format === "docx") {
+        const { exportDocx } = await import("../exporters/docxExporter");
         downloadFile(await exportDocx(notebook), `${filename}.docx`);
       }
     },
