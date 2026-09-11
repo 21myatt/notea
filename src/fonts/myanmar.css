@@ -1,0 +1,503 @@
+@font-face {
+  font-family: "MM KayPhoDu Bold";
+  src: url("/fonts/myanmar/KayPhoDu-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM KayPhoDu Medium";
+  src: url("/fonts/myanmar/KayPhoDu-Medium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM KayPhoDu Regular";
+  src: url("/fonts/myanmar/KayPhoDu-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM KayPhoDu SemiBold";
+  src: url("/fonts/myanmar/KayPhoDu-SemiBold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece Lakwel";
+  src: url("/fonts/myanmar/Masterpiece-Lakwel.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece Spring Rev";
+  src: url("/fonts/myanmar/Masterpiece-Spring-%20Rev.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece CTL";
+  src: url("/fonts/myanmar/MasterpieceCTL.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece Stadium";
+  src: url("/fonts/myanmar/MasterpieceStadium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece TawWin";
+  src: url("/fonts/myanmar/MasterpieceTawWin.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece UniHand";
+  src: url("/fonts/myanmar/MasterpieceUniHand.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece UniRound";
+  src: url("/fonts/myanmar/MasterpieceUniRound.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece UniSans";
+  src: url("/fonts/myanmar/MasterpieceUniSans.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece UniSerif";
+  src: url("/fonts/myanmar/MasterpieceUniSerif.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece UniType";
+  src: url("/fonts/myanmar/MasterpieceUniType.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Masterpiece YayChanZin";
+  src: url("/fonts/myanmar/MasterpieceYayChanZin.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Mon3 Anonta";
+  src: url("/fonts/myanmar/Mon3-anonta1-U2K13.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Angoun";
+  src: url("/fonts/myanmar/Myanmar-Angoun.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Black";
+  src: url("/fonts/myanmar/Myanmar-Black.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Census";
+  src: url("/fonts/myanmar/Myanmar-Census.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Chatu Light";
+  src: url("/fonts/myanmar/Myanmar-Chatu-Light.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Chatu";
+  src: url("/fonts/myanmar/Myanmar-Chatu.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Gantgaw";
+  src: url("/fonts/myanmar/Myanmar-Gantgaw.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar HeadOne";
+  src: url("/fonts/myanmar/Myanmar-HeadOne.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Khyay";
+  src: url("/fonts/myanmar/Myanmar-Khyay.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Kuttar";
+  src: url("/fonts/myanmar/Myanmar-Kuttar.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Nayone";
+  src: url("/fonts/myanmar/Myanmar-Nayone.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Njaun";
+  src: url("/fonts/myanmar/Myanmar-Njaun.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Paoh Rosemary";
+  src: url("/fonts/myanmar/Myanmar-Paoh-rosemary.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Paoh Unicode";
+  src: url("/fonts/myanmar/Myanmar-Paoh-unicode.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Pauklay";
+  src: url("/fonts/myanmar/Myanmar-Pauklay.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Phetsot";
+  src: url("/fonts/myanmar/Myanmar-Phetsot.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Phiksel Smooth";
+  src: url("/fonts/myanmar/Myanmar-Phiksel-Smooth.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Phiksel";
+  src: url("/fonts/myanmar/Myanmar-Phiksel.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Ponenyet";
+  src: url("/fonts/myanmar/Myanmar-Ponenyet.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Sabae";
+  src: url("/fonts/myanmar/Myanmar-Sabae.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Sagar";
+  src: url("/fonts/myanmar/Myanmar-Sagar.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Sanpya";
+  src: url("/fonts/myanmar/Myanmar-Sanpya.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Sans Pro";
+  src: url("/fonts/myanmar/Myanmar-Sans-Pro.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Square Light";
+  src: url("/fonts/myanmar/Myanmar-Square-Light.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Tagu";
+  src: url("/fonts/myanmar/Myanmar-Tagu.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Thuriya";
+  src: url("/fonts/myanmar/Myanmar-Thuriya.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Waso";
+  src: url("/fonts/myanmar/Myanmar-Waso.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar Yinmar";
+  src: url("/fonts/myanmar/Myanmar-Yinmar.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Myanmar3";
+  src: url("/fonts/myanmar/Myanmar3.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM NK SSmart 2";
+  src: url("/fonts/myanmar/NK_SSmart2.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM NK SSmart 3";
+  src: url("/fonts/myanmar/NK_SSmart3.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM NK SSmart 4";
+  src: url("/fonts/myanmar/NK_SSmart4.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM NamKhone Unicode";
+  src: url("/fonts/myanmar/NamKhoneUnicode.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Kyaungchee";
+  src: url("/fonts/myanmar/Padauk-%20Kyaungchee.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Bold";
+  src: url("/fonts/myanmar/Padauk-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Regular";
+  src: url("/fonts/myanmar/Padauk-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Medium Ghost";
+  src: url("/fonts/myanmar/Padauk-medium-Ghost.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM PadaukBook Bold";
+  src: url("/fonts/myanmar/PadaukBook-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM PadaukBook Regular";
+  src: url("/fonts/myanmar/PadaukBook-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Sagar";
+  src: url("/fonts/myanmar/PadaukSagar.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Sgaw Bold";
+  src: url("/fonts/myanmar/PadaukSgaw-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Sgaw Book";
+  src: url("/fonts/myanmar/PadaukSgaw-book.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Sgaw Book Bold";
+  src: url("/fonts/myanmar/PadaukSgaw-bookbold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Padauk Sgaw";
+  src: url("/fonts/myanmar/PadaukSgaw.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Pyidaungsu Bold";
+  src: url("/fonts/myanmar/Pyidaungsu-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Pyidaungsu Regular";
+  src: url("/fonts/myanmar/Pyidaungsu-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Tharlon";
+  src: url("/fonts/myanmar/Tharlon-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MM Yunghkio";
+  src: url("/fonts/myanmar/Yunghkio.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
